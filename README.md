@@ -4,7 +4,7 @@ We will be using React Native
 
 [Getting Started] https://expo.io/learn
 
-####Basically:####
+#### Basically:
 
 1. Download node JS
 2. On a prompt, run 'npm install expo-cli --global'
